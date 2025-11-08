@@ -31,7 +31,7 @@ For this project, all development and design tasks were managed by our two membe
     * Designed the complete user interface (UI) and user experience (UX) flow, from initial wireframes to final high-fidelity mockups.
     * Acted as the Quality Assurance (QA) Lead, creating test cases and conducting thorough testing to identify bugs, usability issues, and edge cases.
     * Managed project documentation and ensured the final app met all functional and design requirements.
-    * 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
