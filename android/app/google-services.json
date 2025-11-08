@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430208019721",
+    "project_id": "idrenew-app",
+    "storage_bucket": "idrenew-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430208019721:android:251c9ff17474f672b2b7d8",
+        "android_client_info": {
+          "package_name": "com.example.idrenew_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkeiIHbiROFlxF3M-a4fFLfT8SJCGcJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
